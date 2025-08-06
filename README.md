@@ -1,4 +1,4 @@
 # ds
 data structure
 
-Package leetcode/<topic>/classname_<leetcodeNumber>
+Package leetcode/topic/classnameLeetcodeNumber
